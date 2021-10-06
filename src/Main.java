@@ -77,7 +77,7 @@ public class Main {
 
         // и... начали...
         System.out.println();
-        System.out.println("Начинам наш концерт...");
+        System.out.println("Начинаем наш концерт...");
         elgitar.sound();
         violin.sound();
         domra.sound();
